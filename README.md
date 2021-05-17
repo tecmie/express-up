@@ -1,5 +1,5 @@
 # express-up
-Utilities to level up your express/nodejs API development, mostly targeted towards building SAAS applications
+Utilities to level up your express/nodejs API development, mostly targeted towards building SAAS applications, so you can focus on services, domain logic and fulfill business requirements
 
 
 ```sh
