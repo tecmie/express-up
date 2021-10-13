@@ -10,6 +10,7 @@ Utilities to level up your express/nodejs API development, mostly targeted towar
 @tecmie/express-scheduler - [redis]
 @tecmie/express-pubsub - [rabbit, nats]
 @tecmie/express-rbac - [optionally, could be scoped in authorization]
+@tecmie/express-session - [Use rolling JWTs and replace cookies for `x-session-headers` style implementation]
 
 ```
 
